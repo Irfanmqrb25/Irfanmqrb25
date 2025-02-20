@@ -1,5 +1,5 @@
 ### Tech Stack
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,react,nextjs,nodejs,bun,express,tailwind,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,react,nextjs,nodejs,bun,express,tailwind,)]
   <br>
   
 ### Github Statistic
