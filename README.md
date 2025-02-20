@@ -1,13 +1,6 @@
 ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="#"><img align="left" alt="TypeScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React Framework)" width="21px" src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://images.seeklogo.com/logo-png/27/2/node-js-logo-png_seeklogo-273749.png" /></a>
-  <a href="https://expressjs.com/"><img align="left" alt="Hapi" title="Express (NodeJS HTTP Framework)" width="21px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" /></a>
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,react,nextjs,nodejs,bun,express,tailwind,)](https://skillicons.dev)
   <br>
-
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
 ### Github Statistic
 <p align="left">
