@@ -6,6 +6,8 @@
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://images.seeklogo.com/logo-png/27/2/node-js-logo-png_seeklogo-273749.png" /></a>
   <a href="https://expressjs.com/"><img align="left" alt="Hapi" title="Express (NodeJS HTTP Framework)" width="21px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" /></a>
   <br>
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
 ### Github Statistic
 <p align="left">
